@@ -1,0 +1,7 @@
+c:\users\cz 3\documents\visual studio 2010\Projects\Discount\Discount\bin\Debug\Discount.exe
+c:\users\cz 3\documents\visual studio 2010\Projects\Discount\Discount\bin\Debug\Discount.pdb
+c:\users\cz 3\documents\visual studio 2010\Projects\Discount\Discount\obj\x86\Debug\Discount.Form1.resources
+c:\users\cz 3\documents\visual studio 2010\Projects\Discount\Discount\obj\x86\Debug\Discount.Properties.Resources.resources
+c:\users\cz 3\documents\visual studio 2010\Projects\Discount\Discount\obj\x86\Debug\Discount.csproj.GenerateResource.Cache
+c:\users\cz 3\documents\visual studio 2010\Projects\Discount\Discount\obj\x86\Debug\Discount.exe
+c:\users\cz 3\documents\visual studio 2010\Projects\Discount\Discount\obj\x86\Debug\Discount.pdb
